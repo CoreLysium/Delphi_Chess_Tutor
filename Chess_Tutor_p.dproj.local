@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/22 20:19:46.681.dproj,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Project1.dproj=D:\Things\IT PAT\IT PAT Phase 2\Chess_Tutor_p.dproj</Transaction>
+    <Transaction>2022/05/23 15:43:56.814.pas,D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.pas=D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDialog_u.pas</Transaction>
+    <Transaction>2022/05/23 15:43:56.823.dfm,D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.dfm=D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDialog_u.dfm</Transaction>
+    <Transaction>2022/05/23 15:44:25.187.pas,D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDialog_u.pas=D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.pas</Transaction>
+    <Transaction>2022/05/23 15:44:25.187.dfm,D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDialog_u.dfm=D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.dfm</Transaction>
+    <Transaction>2022/06/01 15:23:31.757.pas,D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.pas=D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDlg_u.pas</Transaction>
+    <Transaction>2022/06/01 15:23:31.757.dfm,D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.dfm=D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDlg_u.dfm</Transaction>
+    <Transaction>2022/06/01 15:26:04.847.pas,D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDlg_u.pas=D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.pas</Transaction>
+    <Transaction>2022/06/01 15:26:04.847.dfm,D:\Things\IT PAT\IT PAT Phase 2\frmChallengeDlg_u.dfm=D:\Things\IT PAT\IT PAT Phase 2\frmDialogs_u.dfm</Transaction>
+    <Transaction>2022-08-11 14:50:19.138.pas,C:\Users\M22-Carwyn Venter\Documents\Carwyn Venter\Carwyn Venter IT PAT Phase 2\objGame_u.pas=</Transaction>
+    <Transaction>2022/08/11 23:55:59.110.pas,E:\Carwyn Venter IT PAT Phase 2\Unit1.pas=E:\Carwyn Venter IT PAT Phase 2\frmGames_u.pas</Transaction>
+    <Transaction>2022/08/11 23:55:59.139.dfm,E:\Carwyn Venter IT PAT Phase 2\Unit1.dfm=E:\Carwyn Venter IT PAT Phase 2\frmGames_u.dfm</Transaction>
+    <Transaction>2022/08/12 02:27:28.981.pas,E:\Carwyn Venter IT PAT Phase 2\Unit1.pas=E:\Carwyn Venter IT PAT Phase 2\frmAdmin_u.pas</Transaction>
+    <Transaction>2022/08/12 02:27:28.981.dfm,E:\Carwyn Venter IT PAT Phase 2\Unit1.dfm=E:\Carwyn Venter IT PAT Phase 2\frmAdmin_u.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

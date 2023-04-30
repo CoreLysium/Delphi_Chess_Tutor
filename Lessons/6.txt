@@ -1,0 +1,9 @@
+kWe2;pWd3;pWe3;pWf3;qWf1;kBe7;bBe6;bBd6;rBf8;rBg8;
+TWow Chess
+Hf3*
+TPawns can Move. Try it!*
+Qf3pWf4
+TEpic, but your opponent can move too.
+Md6bBf4$p
+TThat will be all.
+END

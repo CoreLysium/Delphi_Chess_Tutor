@@ -1,0 +1,10 @@
+rWa1;rWh1;nWb1;nWg1;bWf1;bWc1;qWd1;kWe1;pWa2;pWb2;pWc2;pWd2;pWe2;pWf2;pWg2;pWh2;rBa8;rBh8;nBb8;nBg8;bBf8;bBc8;qBd8;kBe8;pBa7;pBb7;pBc7;pBd7;pBe7;pBf7;pBg7;pBh7;
+TThis is a test.
+Me2pWe4*
+Hd5*
+Hf5*
+TPlease move the pawn opposite to this one.*
+Qe7pBe5
+Md2pWd4
+TWell Done!
+END
